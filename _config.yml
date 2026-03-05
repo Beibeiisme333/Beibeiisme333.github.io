@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Gaoyi Tian"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Biology Oncology AI4Science "
+  location         : "Peking China"
+  employer         : "Peking university"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "gaoyi.tian@outlook.com" 
 
   # Academic websites
   academia         : # URL
