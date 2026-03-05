@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Gaoyi Tian, currently focusing on Bioinfomatics, Oncology and AI4Science at Peking University. 
+  I am Gaoyi Tian, currently a first-year Ph.D. student at BIOPIC, Peking University, under the supervision of Prof. Fan Bai. Prior to this, I obtained my B.S. in Biology from Xiamen University in 2026. My research currently focuses on the intersection of Bioinformatics, Oncology, and AI4Science, with a particular interest in leveraging deep learning (e.g., MIL and feature attribution) to decode cancer genomes and discover latent molecular mechanisms.
 
 ## <i class="fas fa-fw fa-rocket"></i> Interests {#interests}
 * **Bioinformatics**:
@@ -17,7 +17,8 @@ I am Gaoyi Tian, currently focusing on Bioinfomatics, Oncology and AI4Science at
   * Latent driver mutations
   * Molecular mechanisms.
 * **AI4Science**:
-  * Deep learning applications in cancer classification and prediction of primary or metastatic sites
+  * Cancer classification
+  * Prediction of primary or metastatic sites
   * MIL for genomic data
   * Attribution for interpretability and discoveries
 
