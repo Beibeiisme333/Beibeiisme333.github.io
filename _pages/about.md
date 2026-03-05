@@ -19,7 +19,7 @@ I am Gaoyi Tian, currently focusing on Bioinfomatics, Oncology and AI4Science at
 ## <i class="fas fa-fw fa-award"></i> Selected Honors and Awards {#honors}
 * **National Scholarship**, 2026
 
-## <i class="fas fa-fw fa-heart"></i> Interests {#interests}
+## <i class="fas fa-fw fa-rocket"></i> Interests {#interests}
 * **Bioinformatics**:
   * Cancer genome.
 * **Oncology**:
@@ -29,3 +29,13 @@ I am Gaoyi Tian, currently focusing on Bioinfomatics, Oncology and AI4Science at
   * Deep learning applications in cancer classification and prediction of primary or metastatic sites
   * MIL for genomic data
   * Attribution for interpretability and discoveries
+
+## <i class="fas fa-fw fa-coffee"></i> Life is not all about work :)
+  * **Vedio Games**:
+    * Galgames
+    * Sandbox
+    * Gacha
+  * **Animation**:
+    * Moe-trash 
+  * **Acoustic Guitar**:
+    * Fingerstyle
