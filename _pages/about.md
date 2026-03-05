@@ -10,15 +10,6 @@ redirect_from:
 
 I am Gaoyi Tian, currently focusing on Bioinfomatics, Oncology and AI4Science at Peking University. 
 
-## <i class="fas fa-fw fa-graduation-cap"></i> Educations {#educations}
-* **Peking University**, Beijing, China
-  * Ph.D. in Biology, 2026 - Present
-* **Xiamen University**, Xiamen, China
-  * B.S. in Biology, 2022 - 2026
-
-## <i class="fas fa-fw fa-award"></i> Selected Honors and Awards {#honors}
-* **National Scholarship**, 2026
-
 ## <i class="fas fa-fw fa-rocket"></i> Interests {#interests}
 * **Bioinformatics**:
   * Cancer genome.
@@ -30,11 +21,20 @@ I am Gaoyi Tian, currently focusing on Bioinfomatics, Oncology and AI4Science at
   * MIL for genomic data
   * Attribution for interpretability and discoveries
 
+## <i class="fas fa-fw fa-graduation-cap"></i> Educations {#educations}
+* **Peking University**, Beijing, China
+  * Ph.D. in Biology, 2026 - Present
+* **Xiamen University**, Xiamen, China
+  * B.S. in Biology, 2022 - 2026
+
+## <i class="fas fa-fw fa-award"></i> Selected Honors and Awards {#honors}
+* **National Scholarship**, 2026
+
 ## <i class="fas fa-fw fa-coffee"></i> Life is not all about work :)
   * **Vedio Games**:
     * Galgames
-    * Sandbox
-    * Gacha
+    * Sandbox games
+    * Gacha games
   * **Animation**:
     * Moe-trash 
   * **Acoustic Guitar**:
