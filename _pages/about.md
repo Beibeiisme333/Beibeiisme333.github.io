@@ -12,10 +12,10 @@ I am Gaoyi Tian, currently a first-year Ph.D. student at BIOPIC, Peking Universi
 
 ## <i class="fas fa-fw fa-rocket"></i> Interests
 * **Bioinformatics**:
-  * Cancer genome.
+  * Cancer genome
 * **Oncology**:
   * Latent driver mutations
-  * Molecular mechanisms.
+  * Molecular mechanisms
 * **AI4Science**:
   * Cancer classification
   * Prediction of primary or metastatic sites
