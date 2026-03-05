@@ -11,7 +11,8 @@ redirect_from:
 I am Gaoyi Tian, currently focusing on Biology Oncology and AI4Science at Peking University. 
 
 ## <i class="fas fa-fw fa-newspaper"></i> News {#news}
-* **[2026.09]** I joined Peking University.
+* **[2026.09]** I went to Pkeing University as a a PhD student.
+* **[2022.09]** I went to Xiamen University as an undergraduate.
 
 ## <i class="fas fa-fw fa-graduation-cap"></i> Educations {#educations}
 * **Peking University**, Beijing, China
@@ -21,6 +22,3 @@ I am Gaoyi Tian, currently focusing on Biology Oncology and AI4Science at Peking
 
 ## <i class="fas fa-fw fa-award"></i> Selected Honors and Awards {#honors}
 * **National Scholarship**, 2026
-
-## <i class="fas fa-fw fa-book"></i> Publications
-For a full list of publications, please refer to my [Google Scholar](https://scholar.google.com/citations?user=PS_CX0AAAAAJ) or the [Publications page](/publications/).
