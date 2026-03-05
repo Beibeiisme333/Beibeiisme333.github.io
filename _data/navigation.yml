@@ -8,11 +8,5 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "News"
-    url: /#news    # 链接到主页的新闻锚点
   - title: "Publications"
     url: /publications/
-  - title: "Educations"
-    url: /#educations  # 链接到主页的教育锚点
-  - title: "Honors & Awards"
-    url: /#honors
