@@ -32,7 +32,7 @@ I am Gaoyi Tian, currently a first-year Ph.D. student at BIOPIC, Peking Universi
 * **National Scholarship**, 2026
 
 ## <i class="fas fa-fw fa-coffee"></i> Life is not all about work :)
-  * **Vedio Games**:
+  * **Video Games**:
     * Galgames
     * Sandbox games
     * Gacha games
