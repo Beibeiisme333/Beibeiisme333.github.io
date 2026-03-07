@@ -31,9 +31,9 @@ I am Gaoyi Tian, currently a first-year Ph.D. student at BIOPIC, Peking Universi
 ## <i class="fas fa-fw fa-award"></i> Selected Honors and Awards
 * **National Scholarship**, 2026
 
-## <i class="fas fa-fw fa-coffee"></i> Life is not all about work :)
+## <i class="fas fa-fw fa-coffee"></i> Life Is Not All About Work :)
   * **Video Games**:
-    * Galgames
+    * Gal games
     * Sandbox games
     * Gacha games
   * **Animation**:
